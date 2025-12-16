@@ -6,6 +6,7 @@ This repository showcases my academic projects, personal experiments, and contri
 
 **Skills:**
 
+* Java (Core & Advance)
 * Python
 * TensorFlow/Keras
 * Pandas, NumPy
