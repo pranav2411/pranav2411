@@ -18,5 +18,7 @@ I'm always eager to learn and collaborate, so feel free to connect with me!
 
 **Let's connect!**
 
+* GitHub: https://github.com/pranavkhandelwal24
+* GitHub: https://github.com/pranav2411
 * LinkedIn: www.linkedin.com/in/pranavkh2411
 * Email: Pranavkh2411@gmail.com
